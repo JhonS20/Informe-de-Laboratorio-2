@@ -9,8 +9,11 @@
 1.2 Objetivos Especificos
 
 •	Explicar de forma analítica el método de corrientes de malla mediante el análisis de un circuito cerrado. 
+
 •	Entender la importancia de tener claros los conceptos básicos del análisis de circuitos, para poder llevarlos a la experimentación práctica. 
+
 •	Comparar los cálculos experimentales, simulados y analíticos sobre la medición de corriente eléctrica. 
+
 
 2.	MARCO TEORICO
 
@@ -47,12 +50,16 @@
 5.	VIDEO 
 
 
+
 6.	CONCLUSIONES 
 
+•	Se logro verificar exitosamente los métodos de análisis de los circuitos con la ayuda del simulador para luego verificar en la práctica y al realizar el informe los datos que se obtuvieron en la practica fueron tomados de la mejor manera con un bajo margen de error.
 
-
+•	El método de análisis de mallas nos permite ver de manera simple el comportamiento de la corriente y voltaje dentro de un circuito siempre y cuando las ecuaciones estén bien planteadas. 
 
 7.	BIBLIOGRAFIA 
 
+MecatrónicaLATAM.(2021, 12 de noviembre).Leyes de Kirchhoff. De la página web: https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
 
+Fernández, Tomás y Tamaro, Elena. (2021, 12 de noviembre).Biografia de Gustav Kirchhoff. En Biografías y Vidas. De la página web: https://www.biografiasyvidas.com/biografia/k/kirchhoff.htm
 
