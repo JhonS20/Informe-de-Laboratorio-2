@@ -48,6 +48,7 @@
 ![Imag lab 2](https://user-images.githubusercontent.com/93209004/142972219-be3e05a7-0acc-4745-8c7d-601ced9340ba.jpg)
 
 5.	VIDEO 
+
 https://youtu.be/m6zeOeOI9Es
 
 6.	CONCLUSIONES 
